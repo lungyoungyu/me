@@ -34,16 +34,15 @@ export default class Timeline extends Component {
                           <span>June 2019 - August 2019</span>
                         </h2>
                         <p>
-                          As a summer technology consultant for the FSO
+                          As a full stack developer intern for the FSO
                           (Financial Services Office) - Tax, Technology, and
                           Transformation team, I designed and developed custom,
                           client-serving tax applications, including tax process
                           and packaging automation with Microsoft Excel, Visual
                           Basic for Applications (VBA), and SQL. I also
-                          collaborated on and developed a PE/RE (Private
-                          Equity/Real Estate) API application tracking statuses
-                          of uploaded spreadsheets using C#, Postman, and .NET
-                          framework.
+                          collaborated on and built a PE/RE (Private Equity/Real
+                          Estate) application tracking client financial data
+                          using C#, Postman, and .NET framework.
                         </p>
                       </div>
                     </div>
@@ -64,12 +63,13 @@ export default class Timeline extends Component {
                         <p>
                           As a software engineering intern for the IT Sales and
                           Web Development team, I designed and developed Google
-                          App Maker applications in the Google Cloud Platform to
-                          perform data analysis from Salesforce.com using Google
-                          Apps Script, Alteryx, Apache Solr, and RESTful APIs. I
-                          also built data integrations for customer and product
-                          information from Informatica to SFDC (Salesforce.com)
-                          using Dell Boomi.
+                          App Maker application tools in the Google Cloud
+                          Platform to perform data analysis of Salesforce.com
+                          customer retention data using Google Apps Script,
+                          Alteryx, Apache Solr, and RESTful APIs. I also built
+                          data integrations for customer and product information
+                          from Informatica to SFDC (Salesforce.com) using Dell
+                          Boomi.
                         </p>
                       </div>
                     </div>
@@ -89,15 +89,14 @@ export default class Timeline extends Component {
                         </h2>
                         <p>
                           As an intern for the Operations - Supply Chain and
-                          Procurement team, I built user interfaces for New
-                          Product Cost Models in a LAMP environment to expedite
-                          Prototype Engineers' process of creating new product
-                          builds. I also collaborated closely with team members
-                          to plan, design, and develop robust solutions. I
-                          worked with Import/Export analysts extensively on
-                          Excel and SAP software to organize products and ensure
-                          shipping operations comply with C-TPAT trade
-                          requirements.
+                          Procurement team, I collaborated closely with team
+                          members to plan, design, and develop user interfaces
+                          for new product cost models in a LAMP environment to
+                          expedite prototype engineers' process of creating new
+                          product builds. I also worked extensively with
+                          import/export analysts on Excel and SAP software to
+                          organize products and ensure shipping operations
+                          comply with C-TPAT trade requirements.
                         </p>
                       </div>
                     </div>

@@ -19,21 +19,23 @@ export default class About extends Component {
                       <p>
                         I am a senior undergraduate at the University of
                         Southern California studying Computer Science and
-                        Business Administration. I love exploring and working
-                        with new technologies. My dream is to use technology and
-                        its limitless potential to help make the world a better
-                        place. In my free time, I enjoy playing basketball and
-                        golf. I am a huge fan of NBA basketball, and my favorite
-                        team is the Golden State Warriors. I am an amateur
-                        foodie and love meeting new people.
+                        Business Administration. I am originally from the San
+                        Francisco Bay Area, specifically a town called Saratoga.
+                        I love exploring and working with new technologies. My
+                        dream is to use technology and its limitless potential
+                        to help make the world a better place. In my free time,
+                        I enjoy playing basketball, golf, guitar, and clarinet.
+                        I am a huge fan of NBA basketball, and my favorite team
+                        is the Golden State Warriors. I am an amateur foodie and
+                        love meeting new people.
                       </p>
                       <p>
                         <b>Programming Languages:</b> Python, JavaScript, HTML,
-                        CSS, SQL, Java, C++, Swift
+                        CSS, SQL, Java, C++, Swift, PHP
                       </p>
                       <p>
-                        <b>Technologies:</b> React, Bootstrap, Xcode, Git,
-                        MySQL, Microsoft Excel
+                        <b>Technologies:</b> React, Node.js, Bootstrap, Xcode,
+                        Git, MySQL, Microsoft Excel
                       </p>
                       <p>
                         <b>Concepts:</b> Data Structures, Algorithms,
