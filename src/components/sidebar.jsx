@@ -74,9 +74,7 @@ export default class Sidebar extends Component {
             <div className="colorlib-footer">
               <p>
                 <small>
-                  Made with <i className="icon-heart" aria-hidden="true" /> and{" "}
-                  <i className="icon-beer" aria-hidden="true">
-                    .
+                  Made with <i className="icon-heart" aria-hidden="true" />.
                   </i>
                   <br></br>
                   Thanks{" "}

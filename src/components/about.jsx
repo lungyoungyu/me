@@ -44,7 +44,7 @@ export default class About extends Component {
                       </p>
                       <p>
                         <b>Personal Qualities:</b> Leadership, Initiative,
-                        Resourcefulness, Grit
+                        Resourcefulness, Grit, Master Google Searcher
                       </p>
                     </div>
                   </div>
