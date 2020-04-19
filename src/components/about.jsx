@@ -72,9 +72,7 @@ export default class About extends Component {
                   </span>
                   <div className="desc">
                     <h3>
-                      <a href="https://github.com/lungyoungyu/Munchies">
-                        Munchies
-                      </a>
+                      <a href="">Munchies</a>
                     </h3>
                     <p>iOS Mobile USC Trader Joe's Grocery Delivery.</p>
                   </div>

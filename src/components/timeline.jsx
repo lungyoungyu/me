@@ -129,10 +129,11 @@ export default class Timeline extends Component {
                           <b>Extracurricular Involvement:</b> Software Developer
                           at USC RPL (Rocket Propulsion Lab), Project Lead at
                           USC Corpus Callosum, Python Instructor at USC
-                          Joint-Educational Project, English Writing Instructor
-                          at USC TASSEL ("Teaching and Sharing Skills to Enrich
-                          Lives" - Volunteer English Tutor for rural Cambodia
-                          middle school students)
+                          Joint-Educational Project, Volunteer English Writing
+                          Instructor at USC TASSEL ("Teaching and Sharing Skills
+                          to Enrich Lives" - teach rural Cambodia middle school
+                          students), Member of 3D4E, Member of Association of
+                          Computing Machinery
                         </p>
                       </div>
                     </div>
