@@ -72,7 +72,7 @@ export default class Sidebar extends Component {
               </ul>
             </nav>
             <div className="colorlib-footer">
-              <p>
+              {/* <p>
                 <small>
                   Made with <i className="icon-heart" aria-hidden="true" />.
                   <br></br>
@@ -86,7 +86,7 @@ export default class Sidebar extends Component {
                   </a>{" "}
                   for inspiration.
                 </small>
-              </p>
+              </p> */}
               <p>
                 <small>Hit Me Up! Let's Talk! :)</small>
               </p>

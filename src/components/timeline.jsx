@@ -30,7 +30,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>
-                          Summer Internship at Ernst & Young{" "}
+                          Summer Internship at Ernst & Young LLP{" "}
                           <span>June 2019 - August 2019</span>
                         </h2>
                         <p>
@@ -129,9 +129,10 @@ export default class Timeline extends Component {
                           <b>Extracurricular Involvement:</b> Software Developer
                           at USC RPL (Rocket Propulsion Lab), Project Lead at
                           USC Corpus Callosum, Python Instructor at USC
-                          Joint-Educational Project, Writing Instructor at USC
-                          TASSEL ("Teaching and Sharing Skills to Enrich Lives"
-                          in Rural Cambodia)
+                          Joint-Educational Project, English Writing Instructor
+                          at USC TASSEL ("Teaching and Sharing Skills to Enrich
+                          Lives" - Volunteer English Tutor for rural Cambodia
+                          middle school students)
                         </p>
                       </div>
                     </div>

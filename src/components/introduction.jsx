@@ -25,7 +25,7 @@ export default class Introduction extends Component {
                           <p>
                             <a
                               className="btn btn-primary btn-learn"
-                              href="https://drive.google.com/file/d/18ciGfaHPLaZqIC-6U_WC9M290RWAmQyw/view?usp=sharing"
+                              href="https://drive.google.com/file/d/1WPw5w9eKPof7hoR5TKPrtiMer0RwWzFi/view?usp=sharing"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
@@ -46,7 +46,7 @@ export default class Introduction extends Component {
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner">
                         <div className="desc">
-                          <h1>I love building COOL STUFF!!!</h1>
+                          <h1>I love building COOL STUFF!</h1>
                           <p>
                             <a
                               className="btn btn-primary btn-learn"

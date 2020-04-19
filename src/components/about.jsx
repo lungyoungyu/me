@@ -30,12 +30,12 @@ export default class About extends Component {
                         love meeting new people.
                       </p>
                       <p>
-                        <b>Programming Languages:</b> Python, JavaScript, HTML,
-                        CSS, SQL, Java, C++, Swift, PHP
+                        <b>Programming Languages:</b> Python, Java, Swift,
+                        JavaScript, HTML, CSS, SQL, C++, PHP
                       </p>
                       <p>
-                        <b>Technologies:</b> React, Node.js, Bootstrap, Xcode,
-                        Git, MySQL, Microsoft Excel
+                        <b>Technologies:</b> React, Bootstrap, Xcode, Git,
+                        MySQL, Microsoft Excel, Google Analytics, Moz, Hootsuite
                       </p>
                       <p>
                         <b>Concepts:</b> Data Structures, Algorithms,
@@ -72,11 +72,11 @@ export default class About extends Component {
                   </span>
                   <div className="desc">
                     <h3>
-                      <a href="https://github.com/lungyoungyu/pathfinding-visualizer">
-                        Pathfinding Visualizer
+                      <a href="https://github.com/lungyoungyu/Munchies">
+                        Munchies
                       </a>
                     </h3>
-                    <p>Pathfinding Algorithms visualized.</p>
+                    <p>iOS Mobile USC Trader Joe's Grocery Delivery.</p>
                   </div>
                 </div>
               </div>
@@ -87,11 +87,13 @@ export default class About extends Component {
                   </span>
                   <div className="desc">
                     <h3>
-                      <a href="https://github.com/lungyoungyu/dream-team">
-                        Dream Team
-                      </a>
+                      <a href="https://bit.ly/dream-team-web-app">Dream Team</a>
                     </h3>
-                    <p>Build your "Dream Team" of NBA players.</p>
+                    <p>
+                      <a href="https://github.com/lungyoungyu/dream-team">
+                        Build your "Dream Team" of NBA players.
+                      </a>
+                    </p>
                   </div>
                 </div>
               </div>
@@ -118,11 +120,9 @@ export default class About extends Component {
                   </span>
                   <div className="desc">
                     <h3>
-                      <a href="https://github.com/lungyoungyu/CoCa-Word-Cloud">
-                        Corpus Callosum Word Cloud
-                      </a>
+                      <a href="https://youtu.be/TVokTcMrlbA">Flashcards</a>
                     </h3>
-                    <p>Personalized Word Cloud.</p>
+                    <p>iOS Mobile Quizlet-like Flashcards App.</p>
                   </div>
                 </div>
               </div>
@@ -148,11 +148,15 @@ export default class About extends Component {
                   </span>
                   <div className="desc">
                     <h3>
-                      <a href="https://apps.apple.com/us/app/leamz/id1446238459">
-                        Leamz
+                      <a href="https://youtu.be/zaW3Z3AHX7U">
+                        Pathfinding Visualizer
                       </a>
                     </h3>
-                    <p>iOS Mobile App. Size Free Shopping.</p>
+                    <p>
+                      <a href="https://github.com/lungyoungyu/pathfinding-visualizer">
+                        Pathfinding Algorithms visualized.
+                      </a>
+                    </p>
                   </div>
                 </div>
               </div>
