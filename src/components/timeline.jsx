@@ -30,19 +30,45 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>
+                          Software Engineering Virtual Experience at JPMorgan
+                          Chase <span>May 2020 - June 2020</span>
+                        </h2>
+                        <p>
+                          As a software engineering virtual experience
+                          participant at JPMorgan Chase, I collaborated on and
+                          developed apps to visualize and analyze equity data
+                          for traders on the Equities team, assisting them with
+                          identifying trading opportunities for clients using
+                          Python, React, and Perspective open-source software.
+                        </p>
+                      </div>
+                    </div>
+                  </article>
+                  <article
+                    className="timeline-entry animate-box"
+                    data-animate-effect="fadeInLeft"
+                  >
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-3">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>
                           Summer Internship at Ernst & Young LLP{" "}
                           <span>June 2019 - August 2019</span>
                         </h2>
                         <p>
-                          As a full stack developer intern for the FSO
-                          (Financial Services Office) - Tax, Technology, and
+                          As a software developer intern for the FSO (Financial
+                          Services Organization) - Tax, Technology, and
                           Transformation team, I designed and developed custom,
-                          client-serving tax applications, including tax process
-                          and packaging automation with Microsoft Excel, Visual
-                          Basic for Applications (VBA), and SQL. I also
-                          collaborated on and built a PE/RE (Private Equity/Real
-                          Estate) application tracking client financial data
-                          using C#, Postman, and .NET framework.
+                          client-serving applications, including tax process and
+                          packaging automation tools with Visual Basic for
+                          Applications (VBA), SQL, and Excel. I also
+                          collaborated on and built a PE/RE (Private Equity /
+                          Real Estate) application tracking client financial
+                          data using HTML/CSS, JavaScript, C#, and Postman,
+                          improving work productivity and efficiency of tax
+                          accounting teams by 30%.
                         </p>
                       </div>
                     </div>
@@ -92,11 +118,32 @@ export default class Timeline extends Component {
                           Procurement team, I collaborated closely with team
                           members to plan, design, and develop user interfaces
                           for new product cost models in a LAMP environment to
-                          expedite prototype engineers' process of creating new
-                          product builds. I also worked extensively with
+                          expedite prototype engineers' processes of creating
+                          new product builds. I also worked extensively with
                           import/export analysts on Excel and SAP software to
                           organize products and ensure shipping operations
                           comply with C-TPAT trade requirements.
+                        </p>
+                      </div>
+                    </div>
+                  </article>
+                  <article
+                    className="timeline-entry animate-box"
+                    data-animate-effect="fadeInLeft"
+                  >
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-5">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>
+                          M.S. in Computer Science, University of Southern
+                          California <span>August 2020 - May 2021</span>
+                        </h2>
+                        <p>
+                          I am currently completing my M.S. in Computer Science
+                          at the University of Southern California's Viterbi
+                          School of Engineering, graduating May 2021.
                         </p>
                       </div>
                     </div>
@@ -111,13 +158,15 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>
-                          Education <span>August 2015 - May 2020</span>
+                          B.S. in Computer Science and Business Administration,
+                          University of Southern California{" "}
+                          <span>August 2015 - May 2020</span>
                         </h2>
                         <p>
-                          I am completing my Bachelors of Science in Computer
+                          I completed my Bachelors of Science in Computer
                           Science and Business Administration at the University
                           of Southern California's Viterbi School of Engineering
-                          and Marshall School of Business, graduating May 2020.
+                          and Marshall School of Business, graduated May 2020.
                           During my time at school, I've developed a strong
                           background in CS and business, giving me a unique set
                           of both technical and soft skills. I have a strong

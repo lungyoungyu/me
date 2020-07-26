@@ -17,30 +17,36 @@ export default class About extends Component {
                       <span className="heading-meta">About Me</span>
                       <h2 className="colorlib-heading">Who Am I?</h2>
                       <p>
-                        I am a senior undergraduate at the University of
-                        Southern California studying Computer Science and
-                        Business Administration. I am originally from the San
-                        Francisco Bay Area, specifically a town called Saratoga.
-                        I love exploring and working with new technologies. My
-                        dream is to use technology and its limitless potential
-                        to help make the world a better place. In my free time,
-                        I enjoy playing basketball, golf, guitar, and clarinet.
-                        I am a huge fan of NBA basketball, and my favorite team
-                        is the Golden State Warriors. I am an amateur foodie and
-                        love meeting new people.
+                        I am currently at the University of Southern California
+                        completing my M.S. in Computer Science, graduating May
+                        2021. I recently graduated with a B.S. in Computer
+                        Science from USC in May 2020. I love finding new and
+                        creative ways to solve problems and will use this
+                        passion to develop in the technology industry. My dream
+                        is to use technology and its limitless potential to help
+                        improve people's lives. I am currently seeking Fall 2020
+                        / Spring 2021 internship and 2021 full-time
+                        opportunities in software engineering.
+                      </p>
+                      <p>
+                        I am originally from the San Francisco Bay Area. I enjoy
+                        playing basketball, golf, guitar, and clarinet. I am a
+                        huge fan of NBA basketball, and my favorite team is the
+                        Golden State Warriors. I am a big foodie and love
+                        meeting new people!
                       </p>
                       <p>
                         <b>Programming Languages:</b> Python, Java, Swift,
-                        JavaScript, HTML, CSS, SQL, C++, PHP
+                        JavaScript, HTML/CSS, SQL, C++, PHP
                       </p>
                       <p>
-                        <b>Technologies:</b> React, Bootstrap, Xcode, Git,
-                        MySQL, Microsoft Excel, Google Analytics, Moz, Hootsuite
+                        <b>Technologies:</b> iOS, Xcode, Firebase, Git, MySQL,
+                        React, Microsoft Excel
                       </p>
                       <p>
-                        <b>Concepts:</b> Data Structures, Algorithms,
-                        Object-Oriented Programming / Object-Oriented Design,
-                        Databases, Artificial Intelligence
+                        <b>Concepts:</b> Data Structures and Algorithms,
+                        Object-Oriented Programming and Object-Oriented Design,
+                        Databases, Artificial Intelligence and Machine Learning
                       </p>
                       <p>
                         <b>Personal Qualities:</b> Leadership, Initiative,
