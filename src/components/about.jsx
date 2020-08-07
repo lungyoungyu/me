@@ -97,9 +97,7 @@ export default class About extends Component {
                         Dream Team
                       </a>
                     </h3>
-                    <p>
-                      <a>Build your "Dream Team" of NBA players.</a>
-                    </p>
+                    <p>Build your "Dream Team" of NBA players.</p>
                   </div>
                 </div>
               </div>
