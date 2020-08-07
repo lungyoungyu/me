@@ -93,12 +93,12 @@ export default class About extends Component {
                   </span>
                   <div className="desc">
                     <h3>
-                      <a href="https://bit.ly/dream-team-web-app">Dream Team</a>
+                      <a href="https://github.com/lungyoungyu/dream-team">
+                        Dream Team
+                      </a>
                     </h3>
                     <p>
-                      <a href="https://github.com/lungyoungyu/dream-team">
-                        Build your "Dream Team" of NBA players.
-                      </a>
+                      <a>Build your "Dream Team" of NBA players.</a>
                     </p>
                   </div>
                 </div>
